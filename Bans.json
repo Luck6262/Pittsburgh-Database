@@ -1,23 +1,11 @@
 {
-	"Loser": {
-		"ban": true
-	},
-	"Loser2": {
-		"ban": true
-	},
-	"Tacostorm3415": {
-		"access": true
-	},
-	"StrangeSoldier3135": {
-		"ban": true
-	},
-	"Not_Allowed_Near_School_Zones5142": {
-		"access": true
-	},
-	"Pitufo1213235": {
-		"ban": true
-	},
-	"GetaLoadofThisGuy2": {
-		"ban": true
-	}
+    "Eternal2315": {
+        "banreason": testbanreason
+    },
+    "BannedPlayer2": {
+        "banreason": true
+    },
+    "BannedPlayer3": {
+        "banreason": true
+    }
 }
