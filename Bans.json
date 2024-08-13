@@ -1,11 +1,11 @@
 {
     "Eternal2315": {
-        "banreason": testbanreason
+        "banreason": "testbanreason"
     },
     "BannedPlayer2": {
-        "banreason": true
+        "banreason": "testbanreason"
     },
     "BannedPlayer3": {
-        "banreason": true
+        "banreason": "testbanreason"
     }
 }
